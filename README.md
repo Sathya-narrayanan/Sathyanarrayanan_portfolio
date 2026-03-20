@@ -21,7 +21,7 @@
 
 - Provided actionable insights for revenue growth and operational efficiency
 
-# [Project 2: Netflix-Data-Analysis-Using-POWERBI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-POWERBI)
+# [Project 2: Netflix-Data-Analysis-Using-Power-BI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-POWERBI)
 
 - Analyzed Netflix data to understand content trends and customer behavior using Excel and Power BI
 
