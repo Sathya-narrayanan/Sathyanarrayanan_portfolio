@@ -21,7 +21,7 @@
 
 - Provided actionable insights for revenue growth and operational efficiency
 
-  Link: https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI
+Link: https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI
 
 ![](Images/RETAIL%20SALES%20ANALYTICS%2001.jpg)
 ![](Images/RETAIL%20SALES%20ANALYTICS%2002.jpg)
@@ -47,6 +47,8 @@
 
 - Provided insights for improving marketing, pricing, and delivery efficiency
 
+Link: https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI
+
 ![](Images/ZOMATO%2001.jpg)
 ![](Images/ZOMATO%2002.jpg)
 ![](Images/ZOMATO%2003.jpg)
@@ -71,6 +73,8 @@
 
 - Provided insights for content strategy, user growth, and retention improvement
 
+Link: https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI
+
 ![](Images/NETFLIX%2001.jpg)
 ![](Images/NETFLIX%2002.jpg)
 ![](Images/NETFLIX%2003.jpg)
@@ -78,14 +82,24 @@
 # [Project 4: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
 - Analyzed healthcare data to evaluate patients, doctors, appointments, and revenue using SQL, Excel, and Power BI
+
 - Built an end-to-end analytics workflow (data cleaning → analysis → visualization)
+
 - Performed patient segmentation and identified inactive users
+
 - Evaluated doctor performance based on appointments and diagnoses
+
 - Analyzed appointment trends, including high cancellations and peak months
+
 - Studied medication usage patterns across different diagnoses
+
 - Estimated revenue and identified top-performing specializations
+
 - Highlighted issues like high cancellations and uneven workload distribution
+
 - Provided insights for improving hospital efficiency, patient engagement, and revenue growth
+
+Link: https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL
 
 ![](Images/HEALTHCARE%20ANALYTICS%20WITH%20SQL.png)
 
