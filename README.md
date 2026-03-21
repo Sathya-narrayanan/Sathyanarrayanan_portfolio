@@ -49,7 +49,7 @@
 ![](Images/NETFLIX%2002.jpg)
 ![](Images/NETFLIX%2003.jpg)
 
-# [Project 3: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
+# [Project 3: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
 
 - Analyzed Netflix data to understand content trends and customer behavior using Excel and Power BI
 
