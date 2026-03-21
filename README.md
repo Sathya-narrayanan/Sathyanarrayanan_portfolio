@@ -51,26 +51,19 @@
 
 # [Project 3: Zomato Order & Restaurant Analysis Using Power BI](https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
 
-- Analyzed Netflix data to understand content trends and customer behavior using Excel and Power BI
-
-- Built an end-to-end analytics pipeline (data cleaning → analysis → visualization)
-
-- Created interactive dashboards for genre, subscription, and customer analysis
-
-- Identified balanced genre distribution with no dominant category
-
-- Analyzed year-wise content growth, showing strong increase post-2020
-
-- Evaluated subscription plans, highlighting Standard plan dominance
-
-- Segmented customers by age, gender, and country
-
-- Found higher engagement in older age groups (60+) and lower in younger users
-
-- Provided insights for content strategy, user growth, and retention improvement
 
 ![](Images/ZOMATO%2001.jpg)
 ![](Images/ZOMATO%2002.jpg)
 ![](Images/ZOMATO%2003.jpg)
+
+# [Project 4: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
+
+# [Project 5: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
+
+# [Project 6: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
+
+# [Project 7: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
+
+
 
 
