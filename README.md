@@ -58,6 +58,16 @@
 
 # [Project 4: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
+- Analyzed healthcare data to evaluate patients, doctors, appointments, and revenue using SQL, Excel, and Power BI
+- Built an end-to-end analytics workflow (data cleaning → analysis → visualization)
+- Performed patient segmentation and identified inactive users
+- Evaluated doctor performance based on appointments and diagnoses
+- Analyzed appointment trends, including high cancellations and peak months
+- Studied medication usage patterns across different diagnoses
+- Estimated revenue and identified top-performing specializations
+- Highlighted issues like high cancellations and uneven workload distribution
+- Provided insights for improving hospital efficiency, patient engagement, and revenue growth
+
 ![](Images/HEALTHCARE%20ANALYTICS%20WITH%20SQL.png)
 
 # [Project 5: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
