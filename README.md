@@ -21,7 +21,7 @@
 
 - Provided actionable insights for revenue growth and operational efficiency
 
-Link: (https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI)
+Link: https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-SQL-Power-BI
 
 ![](Images/RETAIL%20SALES%20ANALYTICS%2001.jpg)
 ![](Images/RETAIL%20SALES%20ANALYTICS%2002.jpg)
