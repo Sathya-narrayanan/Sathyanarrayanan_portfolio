@@ -47,7 +47,8 @@ Link: [https://github.com/Sathya-narrayanan/Retail-Sales-Analytics-Using-Excel-S
 
 - Provided insights for improving marketing, pricing, and delivery efficiency
 
-Link: https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI
+Link: [https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI] (https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Using-Power-BI)
+
 
 ![](Images/ZOMATO%2001.jpg)
 ![](Images/ZOMATO%2002.jpg)
@@ -73,7 +74,7 @@ Link: https://github.com/Sathya-narrayanan/Zomato-Order-Restaurant-Analysis-Usin
 
 - Provided insights for content strategy, user growth, and retention improvement
 
-Link: https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI
+Link: [https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI] (https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI)
 
 ![](Images/NETFLIX%2001.jpg)
 ![](Images/NETFLIX%2002.jpg)
@@ -99,7 +100,7 @@ Link: https://github.com/Sathya-narrayanan/Netflix-Data-Analysis-Using-Power-BI
 
 - Provided insights for improving hospital efficiency, patient engagement, and revenue growth
 
-Link: https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL
+Link: [https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL] (https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
 ![](Images/HEALTHCARE%20ANALYTICS%20WITH%20SQL.png)
 
