@@ -86,7 +86,11 @@
 ![](Images/NETFLIX%2002.jpg)
 ![](Images/NETFLIX%2003.jpg)
 
-# [Project 4: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
+# [Project 4: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
+
+![](Images/ABC%20ELECTRONICS%20-%20SALES%20PERFORMANCE%20ANALYSIS%20WITH%20EXCEL.png)
+
+# [Project 5: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
 - Analyzed healthcare data to evaluate patients, doctors, appointments, and revenue using SQL and Excel
 
@@ -110,16 +114,14 @@
 
 ![](Images/HEALTHCARE%20ANALYTICS%20WITH%20SQL.png)
 
-# [Project 5: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
+# [Project 6: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
 
 ![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2001.PNG)
 ![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2002.PNG)
 
-# [Project 6: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
+# [Project 7: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
 
-# [Project 7: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
 
-![](Images/ABC%20ELECTRONICS%20-%20SALES%20PERFORMANCE%20ANALYSIS%20WITH%20EXCEL.png)
 
 
 
