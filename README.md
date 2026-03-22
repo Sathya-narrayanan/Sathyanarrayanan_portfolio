@@ -1,5 +1,9 @@
 # Sathyanarrayanan (Business Analyst)
 
+## Email: sathyanarrayanan.egmp07@iimtrichy.ac.in
+
+## Linkedin: https://www.linkedin.com/in/sathyanarrayanan/
+
 
 
 
