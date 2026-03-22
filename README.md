@@ -88,6 +88,24 @@
 
 # [Project 4: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
 
+- Analyzed sales data to evaluate regional performance, product categories, and profitability using Excel
+
+- Built an end-to-end analytics workflow (data cleaning → analysis → visualization)
+
+- Created interactive dashboards for sales, profit, and margin analysis
+
+- Identified East region as top performer in sales and profitability
+
+- Highlighted North region profitability issues despite high sales
+
+- Analyzed product categories, with Clothing leading in sales and Electronics in profit margin
+
+- Performed regression analysis showing discounts have minimal impact on sales
+
+- Identified underperforming categories like Grocery and Sports
+
+- Provided insights for improving pricing strategy, profitability, and business growth
+
 ![](Images/ABC%20ELECTRONICS%20-%20SALES%20PERFORMANCE%20ANALYSIS%20WITH%20EXCEL.png)
 
 # [Project 5: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
