@@ -136,9 +136,9 @@
 
 # [Project 6: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
 
-- Designed and analyzed a relational database for customers, products, suppliers, and orders using SQL, Excel, and Power BI
+- Designed and analyzed a relational database for customers, products, suppliers, and orders using SQL and Excel
 
-- Built an end-to-end analytics workflow (data cleaning → database design → analysis → visualization)
+- Built an end-to-end analytics workflow (data cleaning → database design → analysis)
 
 - Identified top-spending customers and inactive users
 
