@@ -86,7 +86,35 @@
 ![](Images/NETFLIX%2002.jpg)
 ![](Images/NETFLIX%2003.jpg)
 
-# [Project 4: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
+# [Project 4: CSAT Detailed Business Analysis](https://github.com/Sathya-narrayanan/CSAT_Detailed-Business-Analysis-Report)
+
+- Analyzed customer support data to understand service performance and customer satisfaction using SQL and Power BI
+
+- Built an end-to-end analytics pipeline (data extraction → KPI analysis → dashboard visualization)
+
+- Created interactive dashboards for CSAT, SLA, call reasons, channels, and geographic analysis
+
+- Identified low average CSAT score (2.05/5), indicating poor customer experience
+
+- Evaluated SLA performance, showing only 61% calls handled within target time
+
+- Found billing issues as the dominant call reason, contributing nearly 70% of total calls
+
+- Analyzed support channels, highlighting high dependency on call center operations
+
+- Observed long average call duration (25.15 mins), signaling inefficient resolution processes
+
+- Tracked increasing call volume trends, indicating rising demand or recurring unresolved issues
+
+- Provided insights for service improvement, cost reduction, automation, and customer retention
+
+
+[Link: https://github.com/Sathya-narrayanan/CSAT_Detailed-Business-Analysis-Report](https://github.com/Sathya-narrayanan/CSAT_Detailed-Business-Analysis-Report)
+
+![](Images/NETFLIX%2001.jpg)
+
+
+# [Project 5: Sales Performance Analysis with Excel](https://github.com/Sathya-narrayanan/Sales-Performance-Analysis-with-Excel)
 
 - Analyzed sales data to evaluate regional performance, product categories, and profitability using Excel
 
@@ -110,7 +138,7 @@
 
 ![](Images/ABC%20ELECTRONICS%20-%20SALES%20PERFORMANCE%20ANALYSIS%20WITH%20EXCEL.png)
 
-# [Project 5: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
+# [Project 6: Healthcare Analytics with SQL](https://github.com/Sathya-narrayanan/Healthcare-Analytics-with-SQL)
 
 - Analyzed healthcare data to evaluate patients, doctors, appointments, and revenue using SQL and Excel
 
@@ -134,7 +162,7 @@
 
 ![](Images/HEALTHCARE%20ANALYTICS%20WITH%20SQL.png)
 
-# [Project 6: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
+# [Project 7: Amazon Fresh Analytics with SQL](https://github.com/Sathya-narrayanan/Amazon-Fresh-Analytics-with-SQL)
 
 - Designed and analyzed a relational database for customers, products, suppliers, and orders using SQL and Excel
 
@@ -159,7 +187,7 @@
 ![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2001.PNG)
 ![](Images/AMAZON%20FRESH%20ANALYTICS%20WITH%20SQL%2002.PNG)
 
-# [Project 7: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
+# [Project 8: Customer Demographics and Purchase Behavior Analysis](https://github.com/Sathya-narrayanan/Customer-Demographics-and-Purchase-Behavior-Analysis)
 
 - Analyzed customer data to understand demographics, purchasing patterns, and revenue trends using SQL, Excel, and Power BI
 
